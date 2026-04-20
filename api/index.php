@@ -75,11 +75,11 @@
         <div class="grid md:grid-cols-3 gap-8">
             <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
                 <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6"></div>
-                <h3 class="text-xl font-bold mb-2">Workspace Manager</h3>
+                <h3 class="text-xl font-bold mb-2">Atelier 3</h3>
                 <p class="text-gray-400 text-sm mb-4">Système complet pour la gestion des projets étudiants et stagiaires.</p>
                 <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-indigo-400">#Fullstack</span>
-                    <span class="text-indigo-400">#UI</span>
+                    <span class="text-indigo-400">   <a href="">rapport</a>   </span>
+                    <span class="text-indigo-400"><a href="">lien gitHUB</a></span>
                 </div>
             </div>
             <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
