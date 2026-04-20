@@ -95,7 +95,7 @@
         <div class="grid md:grid-cols-3 gap-8">
               <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
                 <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
-                    <img src="cover.jpg" alt="Atelier 4">
+                    <img src="/cover.png" alt="Atelier 4">
 
                 </div>
                 <h3 class="text-xl font-bold mb-2">Atelier 2</h3>
@@ -119,7 +119,7 @@
           
             <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
                 <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
-                    <img src="cover.jpg" alt="Atelier 5">
+                    <img src="/cover.png" alt="Atelier 5">
                 </div>
                 <h3 class="text-xl font-bold mb-2">atelier 4</h3>
                 <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
