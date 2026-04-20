@@ -109,11 +109,11 @@
                     <img src="/21034578.jpg" alt="Atelier 4">
 
                 </div>
-                <h3 class="text-xl font-bold mb-2">Atelier 4</h3>
+                <h3 class="text-xl font-bold mb-2">Atelier 2</h3>
                 <p class="text-gray-400 text-sm mb-4">fichier text.</p>
                 <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-indigo-400"> <a href="#">rapport</a> </span>
-                    <span class="text-indigo-400"><a href="#">lien gitHUB</a></span>
+                    <span class="text-indigo-400"> <a href="/r2.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="https://github.com/fatimazahraelbakkali78-blip/atelier2.git">lien gitHUB</a></span>
                 </div>
             </div>
             <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
