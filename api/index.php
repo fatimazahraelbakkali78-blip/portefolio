@@ -83,12 +83,12 @@
                 </div>
             </div>
             <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
-                <div class="h-48 bg-gradient-to-tr from-purple-600 to-pink-800 rounded-2xl mb-6"></div>
-                <h3 class="text-xl font-bold mb-2">Data Analytics</h3>
-                <p class="text-gray-400 text-sm mb-4">Dashboard interactif pour l'analyse des performances et statistiques.</p>
+                <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6"></div>
+                <h3 class="text-xl font-bold mb-2">Atelier 4</h3>
+                <p class="text-gray-400 text-sm mb-4">fichier text.</p>
                 <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-purple-400">#Data</span>
-                    <span class="text-purple-400">#Python</span>
+                    <span class="text-indigo-400">   <a href="#">rapport</a>   </span>
+                    <span class="text-indigo-400"><a href="#">lien gitHUB</a></span>
                 </div>
             </div>
             <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
