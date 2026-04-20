@@ -76,10 +76,10 @@
             <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
                 <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6"></div>
                 <h3 class="text-xl font-bold mb-2">Atelier 3</h3>
-                <p class="text-gray-400 text-sm mb-4">Système complet pour la gestion des projets étudiants et stagiaires.</p>
+                <p class="text-gray-400 text-sm mb-4">action formulaire et lien hypertext.</p>
                 <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-indigo-400">   <a href="">rapport</a>   </span>
-                    <span class="text-indigo-400"><a href="">lien gitHUB</a></span>
+                    <span class="text-indigo-400">   <a href="/r3.pdf">rapport</a>   </span>
+                    <span class="text-indigo-400"><a href="https://github.com/fatimazahraelbakkali78-blip/atelier3.git">lien gitHUB</a></span>
                 </div>
             </div>
             <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
