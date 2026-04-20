@@ -93,18 +93,7 @@
     <section id="projects" class="py-24 px-6 max-w-6xl mx-auto">
         <h2 class="text-4xl font-bold mb-12">Portfolio <span class="text-indigo-500">Cards</span></h2>
         <div class="grid md:grid-cols-3 gap-8">
-            <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
-                <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
-                    <img src="/6084414.jpg" alt="Atelier 3">
-                </div>
-                <h3 class="text-xl font-bold mb-2">Atelier 3</h3>
-                <p class="text-gray-400 text-sm mb-4">action formulaire et lien hypertext.</p>
-                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-indigo-400"> <a href="/r3.pdf">rapport</a> </span>
-                    <span class="text-indigo-400"><a href="https://github.com/fatimazahraelbakkali78-blip/atelier3.git">lien gitHUB</a></span>
-                </div>
-            </div>
-            <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
+              <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
                 <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
                     <img src="/21034578.jpg" alt="Atelier 4">
 
@@ -117,10 +106,22 @@
                 </div>
             </div>
             <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
+                <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
+                    <img src="/6084414.jpg" alt="Atelier 3">
+                </div>
+                <h3 class="text-xl font-bold mb-2">Atelier 3</h3>
+                <p class="text-gray-400 text-sm mb-4">action formulaire et lien hypertext.</p>
+                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                    <span class="text-indigo-400"> <a href="/r3.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="https://github.com/fatimazahraelbakkali78-blip/atelier3.git">lien gitHUB</a></span>
+                </div>
+            </div>
+          
+            <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
                 <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
                     <img src="/798.jpg" alt="Atelier 5">
                 </div>
-                <h3 class="text-xl font-bold mb-2">atelier 5</h3>
+                <h3 class="text-xl font-bold mb-2">atelier 4</h3>
                 <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
                 <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
                     <span class="text-emerald-400">#JS</span>
