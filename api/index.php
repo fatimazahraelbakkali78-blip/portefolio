@@ -1,17 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> fatima zohra el baQQali |Digital Portfolio | Pro</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        body { background-color: #020617; color: #f8fafc; scroll-behavior: smooth; font-family: sans-serif; }
-        .glass { background: rgba(255, 255, 255, 0.02); backdrop-filter: blur(12px); border: 1px solid rgba(255, 255, 255, 0.1); }
-        .hover-card:hover { transform: translateY(-10px); border-color: #6366f1; background: rgba(99, 102, 241, 0.05); }
-        .gradient-bg { background: radial-gradient(circle at 50% 50%, #1e1b4b 0%, #020617 100%); }
+        body {
+            background-color: #020617;
+            color: #f8fafc;
+            scroll-behavior: smooth;
+            font-family: sans-serif;
+        }
+
+        .glass {
+            background: rgba(255, 255, 255, 0.02);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .hover-card:hover {
+            transform: translateY(-10px);
+            border-color: #6366f1;
+            background: rgba(99, 102, 241, 0.05);
+        }
+
+        .gradient-bg {
+            background: radial-gradient(circle at 50% 50%, #1e1b4b 0%, #020617 100%);
+        }
     </style>
 </head>
+
 <body class="gradient-bg">
 
     <nav class="fixed w-full z-50 p-6">
@@ -80,25 +100,25 @@
                 <h3 class="text-xl font-bold mb-2">Atelier 3</h3>
                 <p class="text-gray-400 text-sm mb-4">action formulaire et lien hypertext.</p>
                 <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-indigo-400">   <a href="/r3.pdf">rapport</a>   </span>
+                    <span class="text-indigo-400"> <a href="/r3.pdf">rapport</a> </span>
                     <span class="text-indigo-400"><a href="https://github.com/fatimazahraelbakkali78-blip/atelier3.git">lien gitHUB</a></span>
                 </div>
             </div>
             <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
                 <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
-                    <img src="/21034578.jpg.jpg" alt="Atelier 4">
+                    <img src="/21034578.jpg" alt="Atelier 4">
 
                 </div>
                 <h3 class="text-xl font-bold mb-2">Atelier 4</h3>
                 <p class="text-gray-400 text-sm mb-4">fichier text.</p>
                 <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-indigo-400">   <a href="#">rapport</a>   </span>
+                    <span class="text-indigo-400"> <a href="#">rapport</a> </span>
                     <span class="text-indigo-400"><a href="#">lien gitHUB</a></span>
                 </div>
             </div>
             <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
                 <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
-                    <img src="/798.jpg.jpg" alt="Atelier 5">
+                    <img src="/798.jpg" alt="Atelier 5">
                 </div>
                 <h3 class="text-xl font-bold mb-2">atelier 5</h3>
                 <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
@@ -123,4 +143,5 @@
     </footer>
 
 </body>
+
 </html>
