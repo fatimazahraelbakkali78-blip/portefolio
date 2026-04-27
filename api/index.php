@@ -1,3 +1,42 @@
+<?php
+// 1. Grouping: Koul 'item' fih l-code wel PDF dyalo
+$workshops = [
+    ["title" => "Exercice 1", "atelier" => "1", "code" => "exercice1.php", "pdf" => "Rapport Exercice1.pdf"],
+    ["title" => "Exercice 2", "atelier" => "1", "code" => "exercice2.php", "pdf" => "Rapport Exercice2.pdf"],
+    ["title" => "TD 1", "atelier" => "1", "code" => "td1_Atelier1.php", "pdf" => "Rapport TD1.pdf"],
+    ["title" => "TD 2", "atelier" => "1", "code" => "td2_Atelier1.php", "pdf" => "Rapport TD2.pdf"],
+    ["title" => "TD 3", "atelier" => "1", "code" => "td3_Atelier1.php", "pdf" => "Rapport TD3.pdf"],
+    ["title" => "TD 4", "atelier" => "1", "code" => "td4_Atelier1.php", "pdf" => "Rapport TD4.pdf"],
+    ["title" => "TD 5", "atelier" => "1", "code" => "td5_Atelier1.php", "pdf" => "Rapport TD5.pdf"],
+    ["title" => "TD 6", "atelier" => "1", "code" => "td6_Atelier1.php", "pdf" => "Rapport TD6.pdf"],
+    ["title" => "TD 7", "atelier" => "1", "code" => "td7_Atelier1.php", "pdf" => "Rapport TD7.pdf"],
+    ["title" => "TD 8", "atelier" => "1", "code" => "td8_Atelier1.php", "pdf" => "Rapport TD8.pdf"],
+    ["title" => "TD 9", "atelier" => "1", "code" => "td9_Atelier1.php", "pdf" => "Rapport TD9.pdf"],
+    ["title" => "TD 10", "atelier" => "1", "code" => "td10_Atelier1.php", "pdf" => "Rapport TD10.pdf"],
+    ["title" => "TD 11", "atelier" => "1", "code" => "td11_Atelier1.php", "pdf" => "Rapport TD11.pdf"],
+    ["title" => "TD 12", "atelier" => "1", "code" => "td12_Atelier1.php", "pdf" => "Rapport TD12.pdf"],
+    ["title" => "TD 13", "atelier" => "1", "code" => "td13_Atelier1.php", "pdf" => "Rapport TD13.pdf"],
+    ["title" => "Exercice 3", "atelier" => "2", "code" => "exercice3.php", "pdf" => "Rapport Exercice3.pdf"],
+    ["title" => "Exercice 4", "atelier" => "2", "code" => "exercice4.php", "pdf" => "Rapport Exercice4.pdf"],
+    ["title" => "Exercice 5", "atelier" => "3", "code" => "exercice5.php", "pdf" => "Rapport Exercice5.pdf"],
+    ["title" => "Exercice 6", "atelier" => "3", "code" => "exercice6.php", "pdf" => "Rapport Exercice6.pdf"],
+    ["title" => "Exercice 7", "atelier" => "4", "code" => "https://github.com/ayaFrijo/atelier61.git", "pdf" => "Rapport Exercice7.pdf"],
+    ["title" => "Exercice 8", "atelier" => "5", "code" => "https://github.com/ayaFrijo/atelier61.git", "pdf" => "Rapport Exercice81.pdf"],
+    ["title" => "Exercice 9", "atelier" => "6", "code" => "https://github.com/ayaFrijo/atelier61.git", "pdf" => "Rapport Exercice91.pdf"],
+    ["title" => "Exercice 10", "atelier" => "6", "code" => "https://github.com/ayaFrijo/atelier61.git", "pdf" => "Rapport Exercice101.pdf"],
+    ["title" => "Exercice 11", "atelier" => "6", "code" => "https://github.com/ayaFrijo/atelier61.git", "pdf" => "Rapport Exercice111.pdf"],
+    ["title" => "Exercice 12", "atelier" => "6", "code" => "https://github.com/ayaFrijo/atelier61.git", "pdf" => "Rapport Exercice121.pdf"],
+    ["title" => "Exercice 13", "atelier" => "6", "code" => "https://github.com/ayaFrijo/atelier61.git", "pdf" => "Rapport Exercice131.pdf"],
+    ["title" => "Exercice 14", "atelier" => "7", "code" => "https://github.com/ayaFrijo/atelier7.git", "pdf" => "Rapport Exercice141.pdf"]
+
+
+];
+
+$skills = [
+    "HTML" => "98%", "CSS" => "75%", "Bootstrap" => "67%",
+    "JS" => "45%", "PHP" => "30%", "Python" => "69%"
+];
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -7,6 +46,7 @@
     <title> fatima zohra el baQQali |Digital Portfolio | Pro</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
+
         body {
             background-color: #020617;
             color: #f8fafc;
@@ -30,6 +70,9 @@
             background: radial-gradient(circle at 50% 50%, #1e1b4b 0%, #020617 100%);
         }
     </style>
+    
+
+
 </head>
 
 <body class="gradient-bg">
@@ -90,46 +133,51 @@
         </div>
     </section>
 
-    <section id="projects" class="py-24 px-6 max-w-6xl mx-auto">
-        <h2 class="text-4xl font-bold mb-12">Portfolio <span class="text-indigo-500">Cards</span></h2>
-        <div class="grid md:grid-cols-3 gap-8">
-              <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
-                <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
-                    <img src="/cover.png" alt="Atelier 4">
-
-                </div>
-                <h3 class="text-xl font-bold mb-2">Atelier 2</h3>
-                <p class="text-gray-400 text-sm mb-4">fichier text.</p>
-                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-indigo-400"> <a href="/r2.pdf">rapport</a> </span>
-                    <span class="text-indigo-400"><a href="https://github.com/fatimazahraelbakkali78-blip/atelier2.git">lien gitHUB</a></span>
-                </div>
+   <section id="skills">
+        <h3 class="section-title" id="skills-title">MY SKILLS</h3>
+        <div class="skills-grid">
+            <?php foreach($skills as $name => $percentage): ?>
+            <div class="skill-item">
+                <div class="circle"><?php echo $percentage; ?></div>
+                <p><?php echo $name; ?></p>
             </div>
-            <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
-                <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
-                    <img src="/6084414.jpg" alt="Atelier 3">
-                </div>
-                <h3 class="text-xl font-bold mb-2">Atelier 3</h3>
-                <p class="text-gray-400 text-sm mb-4">action formulaire et lien hypertext.</p>
-                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-indigo-400"> <a href="/r3.pdf">rapport</a> </span>
-                    <span class="text-indigo-400"><a href="https://github.com/fatimazahraelbakkali78-blip/atelier3.git">lien gitHUB</a></span>
-                </div>
-            </div>
-          
-            <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
-                <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
-                    <img src="/cover.png" alt="Atelier 5">
-                </div>
-                <h3 class="text-xl font-bold mb-2">atelier 4</h3>
-                <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
-                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-emerald-400">#JS</span>
-                    <span class="text-emerald-400">#Vercel</span>
-                </div>
-            </div>
+            <?php endforeach; ?>
         </div>
     </section>
+
+    <section id="projects-area">
+        <h3 class="section-title" id="proj-area-title">MY WORK</h3>
+        
+        <div class="cat-cards-container">
+            <div class="cat-card" onclick="toggleCategory('workshops')">
+                <i>📁</i>
+                <h3 id="cat-workshops">Workshops</h3>
+                <p id="cat-workshops-p">Exercises & Tutorials</p>
+            </div>
+            <div class="cat-card" onclick="toggleCategory('real-projects')">
+                <i>🚀</i>
+                <h3 id="cat-real">Projects</h3>
+                <p id="cat-real-p">Professional Applications</p>
+            </div>
+        </div>
+
+        <div id="workshops-list">
+            <div class="items-grid">
+                <?php foreach($workshops as $w): ?>
+                <div class="item-box">
+                    <div>
+                        <span class="atelier-tag">Atelier <?php echo $w['atelier']; ?></span>
+                        <h4><?php echo $w['title']; ?></h4>
+                    </div>
+                    
+                    <div class="btn-group">
+                        <a href="<?php echo $w['code']; ?>" class="btn-link btn-code">Source Code</a>
+                        <a href="<?php echo $w['pdf']; ?>" class="btn-link btn-pdf">PDF Report</a>
+                    </div>
+                </div>
+                <?php endforeach; ?>
+            </div>
+        </div>
 
     <section id="contact" class="py-24 px-6 text-center">
         <div class="max-w-2xl mx-auto glass p-12 rounded-3xl">
