@@ -63,7 +63,7 @@
 
     <div id="hero" class="card">
         <span class="px-4 py-1 rounded-full glass text-xs font-bold mb-6 text-indigo-300">DISPONIBLE POUR MISSIONS</span>
-        <h1 class="text-6xl md:text-8xl font-extrabold mb-6 tracking-tighter">Design. <span class="text-indigo-500">Code.</span> Deploy.</h1>
+        <h1 class="text-6xl md:text-8xl font-extrabold mb-6 tracking-tighter"> Fatima zohra el baQQali <br> Design. <span class="text-indigo-500">Code.</span> Deploy.</h1>
         <p class="text-gray-400 text-lg max-w-2xl mb-10 leading-relaxed">Développeur Digital spécialisé dans la création d'interfaces modernes et l'ingénierie des données.</p>
         <div class="flex gap-4">
             <a href="#projects" class="bg-indigo-600 hover:bg-indigo-700 px-8 py-4 rounded-xl font-bold transition">Mes Projets</a>
@@ -74,7 +74,8 @@
     <div id="about" class="card">
         <div class="grid md:grid-cols-2 gap-16 items-center">
             <div class="h-[400px] bg-indigo-900/20 rounded-3xl border border-indigo-500/20 flex items-center justify-center">
-                <span class=""> <img src="/photo-fatima.jpeg" alt="Fatima" style="height:200px ; width:40% ;height:300px"></span>
+                <span class=""> <img src="/photo-fatima.jpeg" alt="Fatima" style="height:200px ; width:40% ;height:300px ;padding: 5rem 1.5rem;
+            max-width: 70rem;"></span>
             </div>
             <div>
                 <h2 class="text-4xl font-bold mb-6">Expertise en <span class="text-indigo-400">Développement</span></h2>
