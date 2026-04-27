@@ -13,14 +13,18 @@
             scroll-behavior: smooth;
             font-family: sans-serif;
         }
-.card {
-    padding: 5rem 1.5rem;
-    max-width: 72rem; /* max-w-6xl */
-    margin: 0 auto;
-    display: flex;
-    flex-direction: column;
-    min-height: fit-content; /* Bach l'div t'atalla m3a l'content */
-}
+
+        .card {
+            padding: 5rem 1.5rem;
+            max-width: 72rem;
+            /* max-w-6xl */
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            min-height: fit-content;
+            /* Bach l'div t'atalla m3a l'content */
+        }
+
         .glass {
             background: rgba(255, 255, 255, 0.02);
             backdrop-filter: blur(12px);
@@ -98,9 +102,9 @@
                 <div class="glass p-6 rounded-2xl text-center">Tailwind / UI</div>
             </div>
         </div>
-</div>
+    </div>
 
-    <div  id="projects" class="glass p-6 rounded-3xl hover-card transition-all duration-300 h-full flex flex-col justify-between">
+    <div id="projects" class="glass p-6 rounded-3xl hover-card transition-all duration-300 h-full flex flex-col justify-between">
         <h2 class="text-4xl font-bold mb-12">Portfolio <span class="text-indigo-500">Cards</span></h2>
         <div class="grid md:grid-cols-3 gap-8">
             <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
@@ -198,8 +202,7 @@
             </div>
         </div>
 
-
-        <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
+ <div class="grid md:grid-cols-3 gap-8">  <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
             <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
                 <img src="/6084414.jpg" alt="Atelier 3">
             </div>
@@ -288,17 +291,17 @@
                 <span class="text-indigo-400"> <a href="/Rapport Exercice101.pdf">rapport</a> </span>
                 <span class="text-indigo-400"><a href="/exercice10.php">code</a></span>
             </div>
-             <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+            <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
                 <h1>Exercice 11 </h1>
                 <span class="text-indigo-400"> <a href="/Rapport Exercice111.pdf">rapport</a> </span>
                 <span class="text-indigo-400"><a href="/exercice11.php">code</a></span>
-            </div> 
+            </div>
             <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
                 <h1>Exercice 12 </h1>
                 <span class="text-indigo-400"> <a href="/Rapport Exercice121.pdf">rapport</a> </span>
                 <span class="text-indigo-400"><a href="/exercice12.php">code</a></span>
             </div>
-             <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+            <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
                 <h1>Exercice 13 </h1>
                 <span class="text-indigo-400"> <a href="/Rapport Exercice131.pdf">rapport</a> </span>
                 <span class="text-indigo-400"><a href="/exercice13.php">code</a></span>
@@ -330,9 +333,11 @@
         </div>
 
 
-        </div>
-        </div>
-</div>
+    </div>
+    </div>
+    </div></div>
+
+       
 
     <section id="contact" class="py-24 px-6 text-center">
         <div class="max-w-2xl mx-auto glass p-12 rounded-3xl">
