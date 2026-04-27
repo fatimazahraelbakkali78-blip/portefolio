@@ -13,7 +13,14 @@
             scroll-behavior: smooth;
             font-family: sans-serif;
         }
-
+.card {
+    padding: 5rem 1.5rem;
+    max-width: 72rem; /* max-w-6xl */
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    min-height: fit-content; /* Bach l'div t'atalla m3a l'content */
+}
         .glass {
             background: rgba(255, 255, 255, 0.02);
             backdrop-filter: blur(12px);
@@ -49,7 +56,7 @@
         </div>
     </nav>
 
-    <section id="hero" class="min-h-screen flex flex-col items-center justify-center text-center px-6">
+    <div id="hero" class="card">
         <span class="px-4 py-1 rounded-full glass text-xs font-bold mb-6 text-indigo-300">DISPONIBLE POUR MISSIONS</span>
         <h1 class="text-6xl md:text-8xl font-extrabold mb-6 tracking-tighter">Design. <span class="text-indigo-500">Code.</span> Deploy.</h1>
         <p class="text-gray-400 text-lg max-w-2xl mb-10 leading-relaxed">Développeur Digital spécialisé dans la création d'interfaces modernes et l'ingénierie des données.</p>
@@ -57,9 +64,9 @@
             <a href="#projects" class="bg-indigo-600 hover:bg-indigo-700 px-8 py-4 rounded-xl font-bold transition">Mes Projets</a>
             <a href="#contact" class="glass px-8 py-4 rounded-xl font-bold transition">Me Contacter</a>
         </div>
-    </section>
+    </div>
 
-    <section id="about" class="py-24 px-6 max-w-6xl mx-auto">
+    <div id="about" class="card">
         <div class="grid md:grid-cols-2 gap-16 items-center">
             <div class="h-[400px] bg-indigo-900/20 rounded-3xl border border-indigo-500/20 flex items-center justify-center">
                 <span class="text-indigo-500 text-8xl font-black opacity-20">ABOUT</span>
@@ -79,9 +86,9 @@
                 </div>
             </div>
         </div>
-    </section>
+    </div>
 
-    <section id="skills" class="py-24 px-6 bg-black/20">
+    <div id="skills" class="card">
         <div class="max-w-6xl mx-auto">
             <h2 class="text-3xl font-bold mb-12 text-center">Compétences Techniques</h2>
             <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -91,9 +98,9 @@
                 <div class="glass p-6 rounded-2xl text-center">Tailwind / UI</div>
             </div>
         </div>
-    </section>
+</div>
 
-    <section id="projects" class="py-24 px-6 max-w-6xl mx-auto">
+    <div  id="projects" class="glass p-6 rounded-3xl hover-card transition-all duration-300 h-full flex flex-col justify-between">
         <h2 class="text-4xl font-bold mb-12">Portfolio <span class="text-indigo-500">Cards</span></h2>
         <div class="grid md:grid-cols-3 gap-8">
             <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
@@ -325,7 +332,7 @@
 
         </div>
         </div>
-    </section>
+</div>
 
     <section id="contact" class="py-24 px-6 text-center">
         <div class="max-w-2xl mx-auto glass p-12 rounded-3xl">
