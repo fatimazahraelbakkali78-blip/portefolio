@@ -74,7 +74,7 @@
     <div id="about" class="card">
         <div class="grid md:grid-cols-2 gap-16 items-center">
             <div class="h-[400px] bg-indigo-900/20 rounded-3xl border border-indigo-500/20 flex items-center justify-center">
-                <span class=""> <img src="/photo-fatima.jpeg" alt="Fatima" style="height:200px ; width:40% ;height:300px ;padding: 5rem 1.5rem;
+                <span class=""> <img src="/photo-fatima.jpeg" alt="Fatima" style="height:200px ; width:60% ;height:400px ;
             max-width: 70rem;"></span>
             </div>
             <div>
