@@ -74,7 +74,7 @@
     <div id="about" class="card">
         <div class="grid md:grid-cols-2 gap-16 items-center">
             <div class="h-[400px] bg-indigo-900/20 rounded-3xl border border-indigo-500/20 flex items-center justify-center">
-                <span class="text-indigo-500 text-8xl font-black opacity-20"> <img src="/photo-fatima.jpeg" alt="Fatima" style="height:200px"></span>
+                <span class=""> <img src="/photo-fatima.jpeg" alt="Fatima" style="height:200px ; width:40% ;height:300px"></span>
             </div>
             <div>
                 <h2 class="text-4xl font-bold mb-6">Expertise en <span class="text-indigo-400">Développement</span></h2>
@@ -108,7 +108,7 @@
     <div id="projects" style="border-color: #6366f1;" class="glass p-6 rounded-3xl hover-card transition-all duration-300 h-full flex flex-col justify-between">
         <h2 class="text-4xl font-bold mb-12">Portfolio <span class="text-indigo-500">Cards</span></h2>
         <div class="grid md:grid-cols-3 gap-8" style="border-color: #6366f1;">
-            <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
+            <div class="glass p-4 rounded-3xl hover-card transition-all duration-300" style="border-color: #6366f1;">
                 <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
                     <img src="/6084414.jpg" alt="Atelier 3" style="height:200px">
                 </div>
