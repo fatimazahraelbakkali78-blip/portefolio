@@ -96,101 +96,231 @@
     <section id="projects" class="py-24 px-6 max-w-6xl mx-auto">
         <h2 class="text-4xl font-bold mb-12">Portfolio <span class="text-indigo-500">Cards</span></h2>
         <div class="grid md:grid-cols-3 gap-8">
-              <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
+            <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
                 <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
                     <img src="/6084414.jpg" alt="Atelier 3">
                 </div>
                 <h3 class="text-xl font-bold mb-2">Atelier 1</h3>
-                <p class="text-gray-400 text-sm mb-4">action formulaire et lien hypertext.</p>
-                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-indigo-400"> <a href="/r3.pdf">rapport</a> </span>
-                    <span class="text-indigo-400"><a href="https://github.com/fatimazahraelbakkali78-blip/atelier3.git">lien gitHUB</a></span>
-                </div>
-            </div>
-
-            <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
-                <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
-                    <img src="/cover.png" alt="Atelier 4">
-
-                </div>
-                <h3 class="text-xl font-bold mb-2">Atelier 2</h3>
                 <p class="text-gray-400 text-sm mb-4">fichier text.</p>
                 <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-indigo-400"> <a href="/r2.pdf">rapport</a> </span>
-                    <span class="text-indigo-400"><a href="https://github.com/fatimazahraelbakkali78-blip/atelier2.git">lien gitHUB</a></span>
+                    <span class="text-indigo-400"> <a href="/Rapport Exercice1.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="/exercice1.php">code</a></span>
+                </div>
+                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                    <span class="text-indigo-400"> <a href="/Rapport Exercice2.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="/exercice2.php">code</a></span>
+                </div>
+                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                    <h1>TD 1</h1>
+                    <span class="text-indigo-400"> <a href="/Rapport TD1.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="/td1_Atelier1.php">code</a></span>
+
+                </div>
+                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                    <h1>TD 2</h1>
+                    <span class="text-indigo-400"> <a href="/Rapport TD2.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="/td2_Atelier2.php">code</a></span>
+
+                </div>
+                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                    <h1>TD 3</h1>
+                    <span class="text-indigo-400"> <a href="/Rapport TD3.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="/td3_Atelier3.php">code</a></span>
+
+                </div>
+                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                    <h1>TD 4</h1>
+                    <span class="text-indigo-400"> <a href="/Rapport TD4.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="/td4_Atelier4.php">code</a></span>
+
+                </div>
+                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                    <h1>TD 5</h1>
+                    <span class="text-indigo-400"> <a href="/Rapport TD5.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="/td5_Atelier5.php">code</a></span>
+
+                </div>
+                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                    <h1>TD 6</h1>
+                    <span class="text-indigo-400"> <a href="/Rapport TD6.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="/td6_Atelier6.php">code</a></span>
+
+                </div>
+                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                    <h1>TD 7</h1>
+                    <span class="text-indigo-400"> <a href="/Rapport TD7.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="/td7_Atelier7.php">code</a></span>
+
+                </div>
+                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                    <h1>TD 8</h1>
+                    <span class="text-indigo-400"> <a href="/Rapport TD8.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="/td8_Atelier8.php">code</a></span>
+
+                </div>
+                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                    <h1>TD 9</h1>
+                    <span class="text-indigo-400"> <a href="/Rapport TD9.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="/td9_Atelier9.php">code</a></span>
+
+                </div>
+                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                    <h1>TD 10</h1>
+                    <span class="text-indigo-400"> <a href="/Rapport TD10.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="/td10_Atelier10.php">code</a></span>
+
+                </div>
+                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                    <h1>TD 11</h1>
+                    <span class="text-indigo-400"> <a href="/Rapport TD11.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="/td11_Atelier11.php">code</a></span>
+
+                </div>
+                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                    <h1>TD 12</h1>
+                    <span class="text-indigo-400"> <a href="/Rapport TD12.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="/td12_Atelier12.php">code</a></span>
+
+                </div>
+                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                    <h1>TD 13</h1>
+                    <span class="text-indigo-400"> <a href="/Rapport TD13.pdf">rapport</a> </span>
+                    <span class="text-indigo-400"><a href="/td13_Atelier13.php">code</a></span>
+
                 </div>
             </div>
-            <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
-                <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
-                    <img src="/6084414.jpg" alt="Atelier 3">
-                </div>
-                <h3 class="text-xl font-bold mb-2">Atelier 3</h3>
-                <p class="text-gray-400 text-sm mb-4">action formulaire et lien hypertext.</p>
-                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-indigo-400"> <a href="/r3.pdf">rapport</a> </span>
-                    <span class="text-indigo-400"><a href="https://github.com/fatimazahraelbakkali78-blip/atelier3.git">lien gitHUB</a></span>
-                </div>
+        </div>
+
+
+        <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
+            <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
+                <img src="/6084414.jpg" alt="Atelier 3">
+            </div>
+            <h3 class="text-xl font-bold mb-2">Atelier 2</h3>
+            <p class="text-gray-400 text-sm mb-4">fichier text.</p>
+            <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                <h1>Exercice 3 </h1>
+
+                <span class="text-indigo-400"> <a href="/Rapport Exercice3.pdf">rapport</a> </span>
+                <span class="text-indigo-400"><a href="/exercice3.php">code</a></span>
+            </div>
+            <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                <h1>Exercice 4 </h1>
+                <span class="text-indigo-400"> <a href="/Rapport Exercice4.pdf">rapport</a> </span>
+                <span class="text-indigo-400"><a href="/exercice4.php">code</a></span>
+            </div>
+        </div>
+
+
+        <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
+            <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
+                <img src="/6084414.jpg" alt="Atelier 3">
+            </div>
+            <h3 class="text-xl font-bold mb-2">Atelier 3</h3>
+            <p class="text-gray-400 text-sm mb-4">action formulaire et lien hypertext.</p>
+            <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                <h1>Exercice 5 </h1>
+
+                <span class="text-indigo-400"> <a href="/Rapport Exercice5.pdf">rapport</a> </span>
+                <span class="text-indigo-400"><a href="/exercice5.php">code</a></span>
+            </div>
+            <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                <h1>Exercice 6 </h1>
+                <span class="text-indigo-400"> <a href="/Rapport Exercice6.pdf">rapport</a> </span>
+                <span class="text-indigo-400"><a href="/exercice6.php">code</a></span>
+            </div>
+        </div>
+
+        <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
+            <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
+                <img src="/cover.png" alt="Atelier 5">
+            </div>
+            <h3 class="text-xl font-bold mb-2">atelier 4</h3>
+            <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
+            <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                <h1>Exercice 7 </h1>
+
+                <span class="text-indigo-400"> <a href="/Rapport Exercice7.pdf">rapport</a> </span>
+                <span class="text-indigo-400"><a href="/exercice7.php">code</a></span>
             </div>
 
-            <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
-                <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
-                    <img src="/cover.png" alt="Atelier 5">
-                </div>
-                <h3 class="text-xl font-bold mb-2">atelier 4</h3>
-                <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
-                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-emerald-400">#JS</span>
-                    <span class="text-emerald-400">#Vercel</span>
-                </div>
+        </div>
+        <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
+            <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
+                <img src="/cover.png" alt="Atelier 5">
             </div>
-            <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
-                <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
-                    <img src="/cover.png" alt="Atelier 5">
-                </div>
-                <h3 class="text-xl font-bold mb-2">atelier 5</h3>
-                <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
-                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-emerald-400">#JS</span>
-                    <span class="text-emerald-400">#Vercel</span>
-                </div>
+            <h3 class="text-xl font-bold mb-2">atelier 5</h3>
+            <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
+            <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                <h1>Exercice 8 </h1>
 
+                <span class="text-indigo-400"> <a href="/Rapport Exercice81.pdf">rapport</a> </span>
+                <span class="text-indigo-400"><a href="/exercice8.php">code</a></span>
             </div>
-            <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
-                <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
-                    <img src="/cover.png" alt="Atelier 5">
-                </div>
-                <h3 class="text-xl font-bold mb-2">atelier 6</h3>
-                <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
-                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-emerald-400">#JS</span>
-                    <span class="text-emerald-400">#Vercel</span>
-                </div>
 
+        </div>
+        <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
+            <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
+                <img src="/cover.png" alt="Atelier 5">
             </div>
-            <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
-                <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
-                    <img src="/cover.png" alt="Atelier 5">
-                </div>
-                <h3 class="text-xl font-bold mb-2">atelier 7</h3>
-                <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
-                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-emerald-400">#JS</span>
-                    <span class="text-emerald-400">#Vercel</span>
-                </div>
+            <h3 class="text-xl font-bold mb-2">atelier 6</h3>
+            <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
+            <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                <h1>Exercice 9</h1>
 
+                <span class="text-indigo-400"> <a href="/Rapport Exercice91.pdf">rapport</a> </span>
+                <span class="text-indigo-400"><a href="/exercice9.php">code</a></span>
             </div>
-            <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
-                <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
-                    <img src="/cover.png" alt="Atelier 5">
-                </div>
-                <h3 class="text-xl font-bold mb-2">atelier 8</h3>
-                <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
-                <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                    <span class="text-emerald-400">#JS</span>
-                    <span class="text-emerald-400">#Vercel</span>
-                </div>
+            <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                <h1>Exercice 9 </h1>
+                <span class="text-indigo-400"> <a href="/Rapport Exercice91.pdf">rapport</a> </span>
+                <span class="text-indigo-400"><a href="/exercice9.php">code</a></span>
+            </div>
+            <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                <h1>Exercice 10 </h1>
+                <span class="text-indigo-400"> <a href="/Rapport Exercice101.pdf">rapport</a> </span>
+                <span class="text-indigo-400"><a href="/exercice10.php">code</a></span>
+            </div>
+             <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                <h1>Exercice 11 </h1>
+                <span class="text-indigo-400"> <a href="/Rapport Exercice111.pdf">rapport</a> </span>
+                <span class="text-indigo-400"><a href="/exercice11.php">code</a></span>
+            </div> 
+            <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                <h1>Exercice 12 </h1>
+                <span class="text-indigo-400"> <a href="/Rapport Exercice121.pdf">rapport</a> </span>
+                <span class="text-indigo-400"><a href="/exercice12.php">code</a></span>
+            </div>
+             <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                <h1>Exercice 13 </h1>
+                <span class="text-indigo-400"> <a href="/Rapport Exercice131.pdf">rapport</a> </span>
+                <span class="text-indigo-400"><a href="/exercice13.php">code</a></span>
+            </div>
+        </div>
+        <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
+            <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
+                <img src="/cover.png" alt="Atelier 5">
+            </div>
+            <h3 class="text-xl font-bold mb-2">atelier 7</h3>
+            <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
+            <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                <h1>Exercice 14 </h1>
+                <span class="text-indigo-400"> <a href="/Rapport Exercice14.pdf">rapport</a> </span>
+                <span class="text-indigo-400"><a href="/exercice14.php">code</a></span>
+            </div>
+        </div>
+        <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
+            <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
+                <img src="/cover.png" alt="Atelier 5">
+            </div>
+            <h3 class="text-xl font-bold mb-2">atelier 8</h3>
+            <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
+            <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
+                <span class="text-emerald-400">#JS</span>
+                <span class="text-emerald-400">#Vercel</span>
+            </div>
 
-            </div>
+        </div>
 
 
         </div>
