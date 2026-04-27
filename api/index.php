@@ -109,7 +109,7 @@
         <div class="grid md:grid-cols-3 gap-8">
             <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
                 <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
-                    <img src="/6084414.jpg" alt="Atelier 3">
+                    <img src="/6084414.jpg" alt="Atelier 3" style="height:200px">
                 </div>
                 <h3 class="text-xl font-bold mb-2">Atelier 1</h3>
                 <p class="text-gray-400 text-sm mb-4">fichier text.</p>
@@ -204,7 +204,7 @@
 
  <div class="grid md:grid-cols-3 gap-8">  <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
             <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
-                <img src="/6084414.jpg" alt="Atelier 3">
+                <img src="/6084414.jpg" alt="Atelier 3" style="height:200px">
             </div>
             <h3 class="text-xl font-bold mb-2">Atelier 2</h3>
             <p class="text-gray-400 text-sm mb-4">fichier text.</p>
@@ -224,7 +224,7 @@
 
         <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
             <div class="h-48 bg-gradient-to-tr from-blue-600 to-indigo-800 rounded-2xl mb-6">
-                <img src="/6084414.jpg" alt="Atelier 3">
+                <img src="/6084414.jpg" alt="Atelier 3" style="height:200px">
             </div>
             <h3 class="text-xl font-bold mb-2">Atelier 3</h3>
             <p class="text-gray-400 text-sm mb-4">action formulaire et lien hypertext.</p>
@@ -243,7 +243,7 @@
 
         <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
             <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
-                <img src="/cover.png" alt="Atelier 5">
+                <img src="/cover.png" alt="Atelier 5" style="height:200px">
             </div>
             <h3 class="text-xl font-bold mb-2">atelier 4</h3>
             <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
@@ -257,7 +257,7 @@
         </div>
         <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
             <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
-                <img src="/cover.png" alt="Atelier 5">
+                <img src="/cover.png" alt="Atelier 5" style="height:200px">
             </div>
             <h3 class="text-xl font-bold mb-2">atelier 5</h3>
             <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
@@ -271,7 +271,7 @@
         </div>
         <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
             <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
-                <img src="/cover.png" alt="Atelier 5">
+                <img src="/cover.png" alt="Atelier 5" style="height:200px">
             </div>
             <h3 class="text-xl font-bold mb-2">atelier 6</h3>
             <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
@@ -309,7 +309,7 @@
         </div>
         <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
             <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
-                <img src="/cover.png" alt="Atelier 5">
+                <img src="/cover.png" alt="Atelier 5" style="height:200px">
             </div>
             <h3 class="text-xl font-bold mb-2">atelier 7</h3>
             <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
@@ -321,7 +321,7 @@
         </div>
         <div class="glass p-4 rounded-3xl hover-card transition-all duration-300">
             <div class="h-48 bg-gradient-to-tr from-emerald-600 to-teal-800 rounded-2xl mb-6">
-                <img src="/cover.png" alt="Atelier 5">
+                <img src="/cover.png" alt="Atelier 5" style="height:200px">
             </div>
             <h3 class="text-xl font-bold mb-2">atelier 8</h3>
             <p class="text-gray-400 text-sm mb-4">Application web optimisée pour la gestion dynamique des contenus...</p>
