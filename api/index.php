@@ -23,6 +23,7 @@
             flex-direction: column;
             min-height: fit-content;
             /* Bach l'div t'atalla m3a l'content */
+             border-color: #6366f1;
         }
 
         .glass {
