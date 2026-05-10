@@ -168,7 +168,7 @@
                 
                 <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
                     <span class="text-indigo-400"> <a href="/mon_projet.pdf">rapport</a> </span>
-                    <span class="text-indigo-400"><a href="mon_projet.php">code</a></span>
+                    <span class="text-indigo-400"><a href="C:\Users\Hp\Desktop\atelier-php\api\mon_projet.php">code</a></span>
                 </div>
             </div>
 
