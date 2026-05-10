@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Connexion</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
     <style>
         body { font-family: Arial; display: flex; justify-content: center; margin-top: 50px; }
         form { border: 1px solid #ccc; padding: 20px; border-radius: 8px; }
@@ -10,6 +11,12 @@
     </style>
 </head>
 <body>
+    <nav>
+    <a href="/store.php">store</a> | 
+    <a href="/panier.php">panier</a> | 
+    <a href="/db.php">Déconnexion</a>
+    <a href="/check.php">Déconnexion</a>
+</nav>
     <form action="check.php" method="POST">
         <h2>Login</h2>
         <input type="text" name="username" placeholder="Nom d'utilisateur" required>
