@@ -141,8 +141,8 @@
            
             <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
                 <h1> mon_projet</h1>
-                <span class="text-indigo-400"> <a href="/index_1.pdf">store</a> </span>
-                <span class="text-indigo-400"><a href="/api/mon_projet.php">code</a></span>
+                <span class="text-indigo-400"> <a href="mon_projet.pdf">store</a> </span>
+                <span class="text-indigo-400"><a href="mon_projet.php" class="btn">Voir Projet</a></span>
             </div>
         </div>
 
