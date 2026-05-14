@@ -141,7 +141,7 @@
            
             <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
                 <h1> mon_store</h1>
-                <span class="text-indigo-400"> <a href="/api/my store/api/index.php">voir le projet  </a> </span>
+                <span class="text-indigo-400"> <a href="https://github.com/fatimazahraelbakkali78-blip/My_store.git">voir le projet  </a> </span>
             </div>
         </div>
 
