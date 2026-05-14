@@ -140,9 +140,8 @@
             </div>
            
             <div class="flex gap-2 text-[10px] uppercase font-bold tracking-widest">
-                <h1> mon_projet</h1>
-                <span class="text-indigo-400"> <a href="boutique.pdf">boutique</a> </span>
-                <span class="text-indigo-400"><a href="/api/boutique/index.php" class="btn">Voir Projet</a></span>
+                <h1> mon_store</h1>
+                <span class="text-indigo-400"> <a href="/api/my store/api/index.php">voir le projet  </a> </span>
             </div>
         </div>
 
