@@ -30,7 +30,7 @@
             position: relative;
             height: 50vh;
             background: linear-gradient(rgba(15, 23, 42, 0.5), rgba(15, 23, 42, 0.8)), 
-                        url('/public/informatique.png') center/cover no-repeat;
+                        url('https://fr.pngtree.com/free-backgrounds-photos/mat%C3%A9riel-informatique') center/cover no-repeat;
             display: flex;
             align-items: center;
             justify-content: center;
