@@ -24,7 +24,14 @@
             color: #f8fafc;
             min-height: 100vh;
         }
-
+body {
+    background: linear-gradient(rgba(15, 23, 42, 0.5), rgba(15, 23, 42, 0.8)), 
+                url('https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop') 
+                center/cover no-repeat;
+    display: flex;
+    min-height: 100vh; /* bach t-ban tsswira 3la toul d-safha */
+    margin: 0;
+}
         /* HERO SECTION */
         .hero {
             position: relative;
