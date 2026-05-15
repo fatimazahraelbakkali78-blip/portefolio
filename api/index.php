@@ -11,10 +11,10 @@
     
     <style>
         :root {
-            --accent: #38bdf8;
-            --accent-hover: #0ea5e9;
-            --bg-dark: #0f172a;
-            --card-bg: rgba(30, 41, 59, 0.7);
+            --accent: #e3ebf1;
+            --accent-hover: #e3e6ed;
+            --bg-dark: #c477b1;
+            --card-bg: rgba(133, 47, 113, 0.7);
         }
 
         body {
@@ -30,11 +30,11 @@
             position: relative;
             height: 50vh;
             background: linear-gradient(rgba(15, 23, 42, 0.5), rgba(15, 23, 42, 0.8)), 
-                        url('https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80&w=1200') center/cover no-repeat;
+                        url('/public/informatique.png') center/cover no-repeat;
             display: flex;
             align-items: center;
             justify-content: center;
-            border-bottom: 2px solid rgba(56, 189, 248, 0.2);
+            border-bottom: 2px solid rgba(196, 163, 93, 0.2);
         }
 
         .hero-content {
@@ -47,7 +47,7 @@
             margin: 0;
             font-weight: 700;
             letter-spacing: -1px;
-            background: linear-gradient(to right, #38bdf8, #818cf8);
+            background: linear-gradient(to right, #792776, #942157);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
