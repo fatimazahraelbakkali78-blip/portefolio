@@ -194,7 +194,7 @@ include_once 'Traitements.php';
 $groupe = "Dev 101";
 $plt = "Vercel";
 
-echo "<div class='card'>";
+echo "<div class='card'>";6
 echo "<h2><i class='fas fa-laptop-code'></i> Premier site de $groupe sur $plt</h2>";
 echo "</div>";
 
